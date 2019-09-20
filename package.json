@@ -1,0 +1,24 @@
+{
+  "name": "lambda-stream-lib",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lambda256/lambda-stream-lib.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lambda256/lambda-stream-lib/issues"
+  },
+  "homepage": "https://github.com/Lambda256/lambda-stream-lib#readme",
+  "dependencies": {
+    "delay": "^4.3.0",
+    "enum": "^2.5.0",
+    "ws": "^7.1.2"
+  }
+}
