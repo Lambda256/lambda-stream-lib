@@ -20,11 +20,11 @@ describe('AllInOne', function () {
                 const endPoint = 'ws://127.0.0.1:10090';
                 const lChainId = '6555545119154595912';
 
-                //authorization == groupId
-                //const authorization = 'test' + 'nus';
-                const authorization = 'test' + new Date().getTime();
+                //accessKey == groupId
+                //const accessKey = 'test' + 'nus';
+                const accessKey = 'test' + new Date().getTime();
 
-                let streamClient = new LambdaStreamClient(endPoint, lChainId, authorization);
+                let streamClient = new LambdaStreamClient(endPoint, lChainId, accessKey);
 
                 //native socket event
                 streamClient.on('open', async function open() {
