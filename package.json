@@ -12,8 +12,8 @@
     "type": "git",
     "url": "git+https://github.com/Lambda256/lambda-stream-lib.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "lambda256",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Lambda256/lambda-stream-lib/issues"
   },
