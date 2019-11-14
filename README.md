@@ -4,9 +4,9 @@
  LambdaStreamClient is designed to be the simplest way possible to receive receipt. 
 
 ```js
-const LambdaStreamClient = require('LambdaStreamClient');
+const LambdaStreamClient = require('lambda-stream-lib');
 
-const endPoint = 'ws://stream.luniverse.dev:80';
+    const endPoint = '#insert endPoint#';
     const lChainId = `#insert lChainId#`;
     const accessKey = '#insert streamAccessKey#';
 
