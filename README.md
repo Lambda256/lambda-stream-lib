@@ -1,4 +1,4 @@
-# lambda-stream-lib
+lambda-stream-lib
 =================
  lambda-stream-lib is JavaScript API library that allows developers to interact with a
 Luniverse Transaction Listener Service using as WebSocket connection.
