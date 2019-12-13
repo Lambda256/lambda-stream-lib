@@ -46,7 +46,7 @@ Environment
 ## EndPoint
 
 ```
- Production: `Comming Soon`
+ Production: `ws://stream.luniverse.io:80`
 ```
       
       
