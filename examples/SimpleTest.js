@@ -1,7 +1,7 @@
 const LambdaStreamClient = require('./../index');
 
 async function test() {
-    const endPoint = 'ws://stream.luniverse.dev:80';
+    const endPoint = '#insert endPoint';
     const lChainId = `#insert lChainId#`;
     const accessKey = '#insert streamAccessKey#';
 
